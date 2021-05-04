@@ -27,6 +27,9 @@ Other available stack variants:
 
 ---
 
+## Credit
+This project is a fork from deviantony [docker-elk](https://github.com/deviantony/docker-elk) project. We acknowledge his great work to put all the devops scripts and setup together.
+
 ## Philosophy
 
 We aim at providing the simplest possible entry into the Elastic stack for anybody who feels like experimenting with
